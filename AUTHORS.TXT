@@ -10,5 +10,5 @@
 　　　　　　　　应张彬（北京理工大学软件学院）
 　　　　　　　　武　斌（北京理工大学软件学院）
 
-　　联系方式：　lj@linjian.cn（林健）
-　　　　　　　　honghuang@bit.edu.cn（黄鸿）
+　　联系方式：　lj [at] linjian.org（林健）
+　　　　　　　　honghuang [at] bit.edu.cn（黄鸿）

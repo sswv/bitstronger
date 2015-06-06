@@ -16,12 +16,12 @@
 　　　　　　　　应张彬（北京理工大学软件学院）
 　　　　　　　　武　斌（北京理工大学软件学院）
 
-　　联系方式：　lj@linjian.cn（林健）
-　　　　　　　　honghuang@bit.edu.cn（黄鸿）
+　　联系方式：　lj [at] linjian.org（林健）
+　　　　　　　　honghuang [at] bit.edu.cn（黄鸿）
 
 3、第三方版权声明
 
-　　（1）UCCI通信模块ucci.h、ucci.cpp及utility文件夹下的UCCI辅助文件源自ElephantEye 1.4a。作者：黄晨（webmaster@elephantbase.net）。黄晨版权所有。
+　　（1）UCCI通信模块ucci.h、ucci.cpp及utility文件夹下的UCCI辅助文件源自ElephantEye 1.4a。作者：黄晨（webmaster [at] elephantbase.net）。黄晨版权所有。
 
 　　（2）开局库文件OpenBook.bin是我们将ElephantEye 1.4a中附带的文本格式开局库文件BOOK.DAT转化为二进制格式并加以筛选得到。作者：黄晨。开局数据是从他的个人网站——《象棋百科全书》（http://www.elephantbase.net）上收录的8000多局对局中整理出来的。
 
@@ -29,6 +29,6 @@
 
 4、网络资源
 
-　　项目主页：　http://sourceforge.net/projects/bitstronger/
-　　项目 SVN：　http://svn.sourceforge.net/viewvc/bitstronger/
-　　主管BLOG：　http://blog.linjian.cn
+　　项目主页：　https://github.com/sswv/bitstronger
+　　项目 Git：　git@github.com:sswv/bitstronger.git
+　　主管BLOG：　http://blog.linjian.org
